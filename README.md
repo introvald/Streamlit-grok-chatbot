@@ -22,7 +22,7 @@ model is Grok from xAI
   ```
 - **Set Up Grok API Key**:
 
-  Ensure you have an API key from xAI. This key should be stored securely using Streamlit's secrets management:
+  Ensure you have an API key from xAI. (https://x.ai/)
   
 - **Run the App**:
   Navigate to the app's directory and run:
