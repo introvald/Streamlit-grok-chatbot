@@ -20,3 +20,13 @@ model is Grok from xAI
   ```bash
   pip install streamlit openai
   ```
+- **Set Up Grok API Key**:
+
+  Ensure you have an API key from xAI. This key should be stored securely using Streamlit's secrets management:
+  
+- **Run the App**:
+  Navigate to the app's directory and run:
+
+```bash
+streamlit run streamlit_app.py
+```  
