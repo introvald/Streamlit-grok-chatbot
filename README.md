@@ -6,3 +6,17 @@ This Streamlit app is integrated with the Grok API to offer a chat interface whe
 model is Grok from xAI
 
 ![Demo App Screenshot](images/Chatbot.png)
+
+## Requirements
+
+- Streamlit
+- openai
+- Python 3.7+
+
+## Setup and Installation
+
+- **Install Dependencies**:
+
+  ```bash
+  pip install streamlit openai
+  ```
