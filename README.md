@@ -7,6 +7,8 @@ model is Grok from xAI
 
 ![Demo App Screenshot](images/Chatbot.png)
 
+https://grok-chatbot.streamlit.app/
+
 ## Requirements
 
 - Streamlit
